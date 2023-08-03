@@ -6,5 +6,15 @@ def ask_password():
     return asked_password
 
 
+def streng_checker(pw):
+    streng = ""
+    if len(pw) < 6:
+        streng = "Too short, weak"
+    elif len(pw) >= 6 & 
+
+
 def main():
-# This will be the main function.
+    # This will be the main function.
+    pass
+
+
